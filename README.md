@@ -1,16 +1,33 @@
-## Hi there 👋
+## 👋 Hello, I'm Nakul Jindal!
+![My-image-1](https://github.com/user-attachments/assets/f8e4193f-7d49-4441-8fb5-261280e8db1c)
 
-<!--
-**Nakuljindal60/Nakuljindal60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### About Me
+I'm Nakul Jindal, a Co-Organizer at GDG on Campus IIMT and a B.Tech Computer Science student at IIMT College of Engineering, located in Meerut. I'm passionate about technology and innovation, and I'm constantly seeking to learn and grow in the field of web development and programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills and Technologies
+- **Programming Languages**: Python, HTML, CSS
+- **Tools and Platforms**: Git, GitHub
+
+### 🌟 Featured Project
+1. **Portfolio Website**: [Nakul's Portfolio](https://nakuljindal60.github.io/portfolio-website/)
+   - A personal portfolio showcasing my skills, projects, and resume.
+
+### 🎓 Education
+- **B.Tech in Computer Science Engineering** @ IIMT College of Engineering
+
+### 🏆 Achievements and Certifications
+- **Certification in Web Development**
+
+### 🌱 Interests
+- Web Development
+- Learning Python
+- Exploring New Technologies
+
+### 📫 How to Reach Me
+- **LinkedIn**: [Nakul Jindal](https://www.linkedin.com/in/Nakul-jindal)
+- **Portfolio**: [Nakul's Portfolio](https://nakuljindal60.github.io/portfolio-website/)
+
+---
+
+Feel free to add or modify any details as needed! If you have any more information or need further adjustments, let me know. 🚀
