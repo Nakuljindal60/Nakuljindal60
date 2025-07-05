@@ -1,18 +1,19 @@
 ## 👋 Hello, I'm Nakul Jindal!
-![My-image-1](https://github.com/user-attachments/assets/f8e4193f-7d49-4441-8fb5-261280e8db1c)
-
 
 ### About Me
 I'm Nakul Jindal, a Co-Organizer at GDG on Campus IIMT and a B.Tech Computer Science student at IIMT College of Engineering, located in Meerut. I'm passionate about technology and innovation, and I'm constantly seeking to learn and grow in the field of web development and programming.
 
 ### 🚀 Skills and Technologies
-- **Programming Languages**: Python, HTML, CSS
+- **Programming Languages**: Python, HTML, CSS, Javascript
 - **Tools and Platforms**: Git, GitHub
 
 ### 🌟 Featured Project
 1. **Portfolio Website**: [Nakul's Portfolio](https://nakuljindal.me)
    - A personal portfolio showcasing my skills, projects, and resume.
-
+2. **JJK Hackathon 2025 Website**: [Hackathon Website link](https://JJKHackathon.xyz)
+   - A Website for JJK Hackathon 2025 organized by GDG on Campus: IIMT, Meerut.
+   - **Tools used**: HTML, CSS, Javascript, React.js
+   - **GitHub** for hosting the website
 ### 🎓 Education
 - **B.Tech in Computer Science Engineering** @ IIMT College of Engineering
 
