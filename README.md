@@ -14,6 +14,10 @@ I'm Nakul Jindal, a Co-Organizer at GDG on Campus IIMT and a B.Tech Computer Sci
    - A Website for JJK Hackathon 2025 organized by GDG on Campus: IIMT, Meerut.
    - **Tools used**: HTML, CSS, Javascript, React.js
    - **GitHub** for hosting the website
+3. **CleanCity**:
+   - A website that can be used to report issues about the waste near you.
+   - **Tools used**: Python (Flask) for Backend, HTML, CSS and JS for frontend.
+   - **GitHub** for hosting. 
 ### 🎓 Education
 - **B.Tech in Computer Science Engineering** @ IIMT College of Engineering
 
