@@ -31,7 +31,7 @@ I'm Nakul Jindal, a Co-Organizer at GDG on Campus IIMT and a B.Tech Computer Sci
 
 ### 📫 How to Reach Me
 - **LinkedIn**: [Nakul Jindal](https://www.linkedin.com/in/Nakul-jindal)
-- **Portfolio**: [Nakul's Portfolio](https://nakuljindal.me)
+- **Portfolio**: [Nakul's Portfolio](https://nakuljindal.netlify.app/)
 
 ---
 
