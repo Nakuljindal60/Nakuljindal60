@@ -8,7 +8,7 @@ I'm Nakul Jindal, a Co-Organizer at GDG on Campus IIMT and a B.Tech Computer Sci
 - **Tools and Platforms**: Git, GitHub
 
 ### 🌟 Featured Project
-1. **Portfolio Website**: [Nakul's Portfolio](https://nakuljindal.me)
+1. **Portfolio Website**: [Nakul's Portfolio](https://nakul-jindal-portfolio.netlify.app/)
    - A personal portfolio showcasing my skills, projects, and resume.
 2. **JJK Hackathon 2025 Website**: [Hackathon Website link](https://JJKHackathon.xyz)
    - A Website for JJK Hackathon 2025 organized by GDG on Campus: IIMT, Meerut.
